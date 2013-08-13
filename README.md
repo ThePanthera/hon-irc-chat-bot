@@ -8,4 +8,4 @@ if someone in channel, with admin priveleges on both bots first runs a check if 
 
 if not, prompts brain to load the certain module/plugin, upon loading, it selects randomly a question from a file
 (scanner function would be useful in this case)
-sets both bots to filter chat, with a certain keyword, blabal
+sets both bots to filter chat, with a certain keyword, blabla
