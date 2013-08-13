@@ -1,4 +1,4 @@
-package brain;
+package com.honchat.brain;
 
 public class Main {
 

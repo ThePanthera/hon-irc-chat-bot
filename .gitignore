@@ -4,21 +4,3 @@
 *.jar
 *.war
 *.ear
-
-# Netbeans IDE Project files #
-nbproject/
-nbproject/private/
-build/
-nbbuild/
-dist/
-nbdist/
-lib/
-manifest.mf
-build.xml
-nbactions.xml
-nb-configuration.xml
-
-# Eclipse IDE Project Files #
-*.project
-*.classpath
-/hon-irc-chat-bot/nbproject/private/
