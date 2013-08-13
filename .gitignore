@@ -1,1 +1,19 @@
-dfd
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Netbeans IDE Project files #
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Eclipse IDE Project Files #
+*.project
+*.classpath
