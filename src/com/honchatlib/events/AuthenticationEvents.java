@@ -1,4 +1,4 @@
-package com.honchatlib;
+package com.honchatlib.events;
 
 /**
  *

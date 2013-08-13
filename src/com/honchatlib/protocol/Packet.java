@@ -1,10 +1,8 @@
-package com.honchatlib;
+package com.honchatlib.protocol;
 
 /**
  *
  * @author _4Char
  */
-public class Packet
-{
-    
+public class Packet {
 }

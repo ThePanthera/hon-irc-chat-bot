@@ -1,11 +1,4 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-package com.honchatlib;
-
-import lombok.Getter;
-import lombok.Setter;
+package com.honchatlib.protocol;
 
 /**
  *
